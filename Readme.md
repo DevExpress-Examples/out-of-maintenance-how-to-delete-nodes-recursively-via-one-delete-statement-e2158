@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to delete nodes recursively via one delete statement
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2158/)**
+<!-- run online end -->
 
 
 <p>The ASPxTreeList doesn't allow you to remove nodes recursively in batch mode. When the delete button is clicked, the ASPxTreeList removes nested nodes one-by-one.<br />
